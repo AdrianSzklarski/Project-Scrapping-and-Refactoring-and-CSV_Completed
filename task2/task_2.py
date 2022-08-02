@@ -15,7 +15,7 @@ from selenium.webdriver.common.keys import Keys
 from modul.connect import connect_to_site
 
 
-driverPath = r'/home/adrian/Pulpit/Zadania_rekrutacyjne/Zadania/folder_task_2/webdrivers/chromedriver'
+driverPath = r'/home/adrian/Pulpit/Portfolio na GITHUB/Na GitHub/Project - Scrappin and Refactoring and CSV/task2/webdrivers/chromedriver'
 url = 'https://www.carrefour.pl/sklepy?must=seniorCard&should=carrefour%2Cmarket%2Cexpress%2CexpressConvenience%2Cglobi%2Csupeco'
 savePath = r'/home/adrian/Pulpit/Portfolio na GITHUB/Na GitHub/Project - Scrappin and Refactoring and CSV/task2/task2.csv'
 
