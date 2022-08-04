@@ -5,7 +5,7 @@ from requests import get
 USERNAME = 'Login'
 
 
-# Funkcja obrabiająca REST APi
+# REST APi processing function
 def get_place_info(postalCode, country, username=USERNAME):
     r = get(
         f'http://api.geonames.org/postalCodeLookupJSON?postalcode={postalCode}&country={country}&username={username}')
