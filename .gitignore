@@ -3,3 +3,4 @@
 modul
 .idea
 *.pdf
+__pycache__
