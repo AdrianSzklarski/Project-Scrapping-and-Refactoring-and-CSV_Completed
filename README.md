@@ -1,7 +1,11 @@
 <h2 align="center">Project - Scrapping and Refactoring and CSV</h2>
 
+<p> Task1: CSV </p>
+<p>Na podstawie powyższych źródeł przeanalizuj uważnie zgromadzone zbiory danych
+i opracuj jeden plik w wybranym formacie.</p>
+
 ## Use of the programme:
-<p>Task2: Scrapping </p>
+<p> Task2: Scrapping </p>
 <a href = 'https://www.carrefour.pl/sklepy' title="Carrefour" target="_blank">Carrefour</a>
 <p> Downloading information regarding each store with senior card service </p>
 
