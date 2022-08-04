@@ -1,8 +1,7 @@
 <h2 align="center">Project - Scrapping and Refactoring and CSV</h2>
 
 <p> Task1: CSV </p>
-<p>Na podstawie powyższych źródeł przeanalizuj uważnie zgromadzone zbiory danych
-i opracuj jeden plik w wybranym formacie.</p>
+<p>Based on the above sources, carefully analyze the collected datasets and produce one file in the format of your choice.</p>
 
 ## Use of the programme:
 <p> Task2: Scrapping </p>
