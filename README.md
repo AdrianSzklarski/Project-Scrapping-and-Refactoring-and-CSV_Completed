@@ -23,5 +23,5 @@
 </ul>
 
 ## Author:
-Programme code written by A.Szklarski 08.2022r.
+Programme code written by A.Szklarski 08.2022r
 
